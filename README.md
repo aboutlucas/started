@@ -1,3 +1,3 @@
-# started
+# Started
 
 Jekyll Blog
